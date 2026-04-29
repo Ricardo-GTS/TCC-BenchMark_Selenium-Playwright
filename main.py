@@ -2,6 +2,8 @@
 ================================================================================
 ANÁLISE COMPARATIVA DE FRAMEWORKS PARA AUTOMAÇÃO WEB: UM ESTUDO DE CASO ENTRE SELENIUM E PLAYWRIGHT
 Benchmark completo com 10 cenários e métricas de avaliação
+
+JOSÉ RICARDO BEZERRA DE OLIVEIRA
 ================================================================================
 Dependências:
     pip install selenium playwright psutil requests pandas tabulate colorama
